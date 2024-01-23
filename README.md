@@ -1,4 +1,4 @@
-# NNLW8_DoctorCare_Pedro
+# NLW8_DoctorCare_Pedro
 
 ![preview](./.github/preview.png)
 
